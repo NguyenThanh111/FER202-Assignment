@@ -1,0 +1,8 @@
+{
+  "editor.mouseWheelZoom": true,
+  "editor.formatOnPaste": true,
+  "editor.wordWrap": "on",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "files.autoSave": "afterDelay",
+  "editor.formatOnSave": true
+}
